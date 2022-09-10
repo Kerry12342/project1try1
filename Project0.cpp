@@ -1,6 +1,7 @@
 #include <iostream>
 int main()
 {
+  // a second comment in main
    // a comment in new_branch
    int goKerry = 1;
    // a comment in main
