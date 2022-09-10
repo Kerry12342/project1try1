@@ -1,6 +1,7 @@
 #include <iostream>
 int main()
 {
+   // a comment in new_branch
    int goKerry = 1;
    char boringMe = 'a';
    std::string myCode [] = {
