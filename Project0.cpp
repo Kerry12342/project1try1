@@ -2,6 +2,7 @@
 int main()
 {
    int goKerry = 1;
+   // a comment in main
    char boringMe = 'a';
    std::string myCode [] = {
       "#include <iostream>",
