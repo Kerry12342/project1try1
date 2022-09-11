@@ -1,10 +1,9 @@
 #include <iostream>
 int main()
 {
-  // a second comment in main
-   // a comment in new_branch
+  // a comment in main
    int goKerry = 1;
-   // a comment in main
+
    char boringMe = 'a';
    std::string myCode [] = {
       "#include <iostream>",
