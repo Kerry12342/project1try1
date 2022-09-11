@@ -1,14 +1,9 @@
 #include <iostream>
 int main()
 {
-<<<<<<< HEAD
   // a comment in main
    int goKerry = 1;
 
-=======
-   // I insereted a comment in new_branch
-   int goKerry = 1;
->>>>>>> new_branch
    char boringMe = 'a';
    std::string myCode [] = {
       "#include <iostream>",
